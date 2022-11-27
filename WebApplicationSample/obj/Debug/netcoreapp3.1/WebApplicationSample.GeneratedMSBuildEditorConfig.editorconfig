@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WebApplicationSample
+build_property.ProjectDir = /Users/syediqbal/Projects/quickstart-dotnetcore-cicd/WebApplicationSample/
